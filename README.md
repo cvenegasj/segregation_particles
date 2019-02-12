@@ -1,4 +1,5 @@
-# segregation_particles
+# Segregation Particles
+Agent-based model of segregation using simple attraction and repulsion rules. Particles of same color attract each other, otherwise repel. 
 
 ## Running examples:
 
